@@ -1,0 +1,15 @@
+E:\Repos\Articles-master\DesignPatternSOLID\bin\Debug\net6.0\DesignPatternSOLID.exe
+E:\Repos\Articles-master\DesignPatternSOLID\bin\Debug\net6.0\DesignPatternSOLID.deps.json
+E:\Repos\Articles-master\DesignPatternSOLID\bin\Debug\net6.0\DesignPatternSOLID.runtimeconfig.json
+E:\Repos\Articles-master\DesignPatternSOLID\bin\Debug\net6.0\DesignPatternSOLID.dll
+E:\Repos\Articles-master\DesignPatternSOLID\bin\Debug\net6.0\DesignPatternSOLID.pdb
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.csproj.AssemblyReference.cache
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.AssemblyInfoInputs.cache
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.AssemblyInfo.cs
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.csproj.CoreCompileInputs.cache
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.dll
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\refint\DesignPatternSOLID.dll
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.pdb
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\DesignPatternSOLID.genruntimeconfig.cache
+E:\Repos\Articles-master\DesignPatternSOLID\obj\Debug\net6.0\ref\DesignPatternSOLID.dll
