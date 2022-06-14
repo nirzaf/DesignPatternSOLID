@@ -4,14 +4,14 @@
     {
         public AdditionCalculation(int numberA, int numberB)
         {
-            this.NumberB = numberB;
-            this.NumberA = numberA;
+            NumberB = numberB;
+            NumberA = numberA;
         }
         public int NumberA { get; set; }
         public int NumberB { get; set; }
         public virtual int Calculate()
         {
-            return this.NumberA + NumberB;
+            return NumberA + NumberB;
         }
     }
     public class SubtractionCalculation : AdditionCalculation

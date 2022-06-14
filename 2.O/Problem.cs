@@ -17,8 +17,6 @@
                 case CalculationType.subtraction:
                     result = numberA - numberB;
                     break;
-                default:
-                    break;
             }
             return result;
         }

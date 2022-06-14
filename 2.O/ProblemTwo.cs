@@ -17,7 +17,7 @@ namespace DesignPatternSOLID._2.O
             };
 
             //validate recipient's domain
-            if (!recipient.ToString().EndsWith("@thiago.com"))
+            if (!recipient.EndsWith("@thiago.com"))
             {
                 Console.WriteLine("Mail destinatary not in the domain");
                 return;

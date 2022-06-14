@@ -4,8 +4,8 @@
     {
         public MathCalculate(int numberA, int numberB)
         {
-            this.NumberB = numberB;
-            this.NumberA = numberA;
+            NumberB = numberB;
+            NumberA = numberA;
         }
         public int NumberA { get; set; }
         public int NumberB { get; set; }
@@ -20,7 +20,7 @@
 
         public override int Calculate()
         {
-            return this.NumberA + NumberB;
+            return NumberA + NumberB;
         }
     }
     public class Subtraction : MathCalculate
