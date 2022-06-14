@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatternSOLID._3.L
+﻿namespace DesignPatternSOLID._3.L
 {
     public abstract class MathCalculate
     {

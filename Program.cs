@@ -1,7 +1,4 @@
 ﻿using DesignPatternSOLID._2.O;
-using DesignPatternSOLID._3.L;
-using DesignPatternSOLID._3.L.Problem;
-using System;
 
 namespace DesignPatternSOLID
 {

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatternSOLID._4.I
+﻿namespace DesignPatternSOLID._4.I
 {
 
     public interface IFeed {

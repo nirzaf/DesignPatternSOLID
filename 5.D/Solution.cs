@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatternSOLID._5.D
+﻿namespace DesignPatternSOLID._5.D
 {
     public class BusinessLayer
     {

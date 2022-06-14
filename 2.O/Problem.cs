@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatternSOLID._2.O
+﻿namespace DesignPatternSOLID._2.O
 {
     //here we have a class does math calculation with 3 operations, how would we do if need to include others?
     public class MathCalculate
