@@ -2,18 +2,18 @@
 {
     public class BusinessLayer
     {
-        private readonly IRepositoryLayer repositoryLayer;
+        private readonly IRepositoryLayer _repositoryLayer;
 
         public BusinessLayer(IRepositoryLayer repositoryLayer)
         {
-            this.repositoryLayer = repositoryLayer;
+            _repositoryLayer = repositoryLayer;
         }
         public void AddItem(int itemId)
         {
-            if (!string.IsNullOrEmpty(repositoryLayer.GetItem(itemId)))
-                repositoryLayer.Update();
+            if (!string.IsNullOrEmpty(_repositoryLayer.GetItem(itemId)))
+                _repositoryLayer.Update();
             else
-                repositoryLayer.Create();
+                _repositoryLayer.Create();
         }
     }
     public interface IRepositoryLayer

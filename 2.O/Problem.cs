@@ -8,13 +8,13 @@
             double result = 0;
             switch (calculationType)
             {
-                case CalculationType.addition:
+                case CalculationType.Addition:
                     result = numberA + numberB;
                     break;
-                case CalculationType.multiplication:
+                case CalculationType.Multiplication:
                     result = numberA * numberB;
                     break;
-                case CalculationType.subtraction:
+                case CalculationType.Subtraction:
                     result = numberA - numberB;
                     break;
             }
@@ -24,8 +24,8 @@
 
     public enum CalculationType
     {
-        addition,
-        multiplication,
-        subtraction
+        Addition,
+        Multiplication,
+        Subtraction
     }
 }
